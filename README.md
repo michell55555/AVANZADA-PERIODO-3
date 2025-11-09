@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Frames </title>
+
+</head>
+
+<FRAMESET cols="20%, 40%, 40%">
+    <frame src="menu.html">
+    <frame src="Pagina 1.html">
+    <frame src="BASE.html" name="visor">
+</FRAMESET>
+
+
+
+
+</html>
