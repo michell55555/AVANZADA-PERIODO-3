@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>h</title>
+    <title>AVANZADA</title>
   </head>
 
   <frameset cols="20%, 40%, 40%">
