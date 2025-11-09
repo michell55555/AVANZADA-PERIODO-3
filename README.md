@@ -1,7 +1,5 @@
 <html>
 <head>
-<title>h </title>
-
 </head>
 
 <frameset cols="20%, 40%, 40%">
